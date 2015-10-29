@@ -1,0 +1,8 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\bin\Debug\06.RemoveAllOddTimesOccurances.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\bin\Debug\06.RemoveAllOddTimesOccurances.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\bin\Debug\06.RemoveAllOddTimesOccurances.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\obj\Debug\06.RemoveAllOddTimesOccurances.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\obj\Debug\06.RemoveAllOddTimesOccurances.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\06.RemoveAllOddTimesOccurances\obj\Debug\06.RemoveAllOddTimesOccurances.pdb

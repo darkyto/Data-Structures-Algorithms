@@ -1,0 +1,8 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\bin\Debug\03.SortSequenceInIncreasingOrder.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\bin\Debug\03.SortSequenceInIncreasingOrder.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\bin\Debug\03.SortSequenceInIncreasingOrder.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\obj\Debug\03.SortSequenceInIncreasingOrder.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\obj\Debug\03.SortSequenceInIncreasingOrder.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\03.SortSequenceInIncreasingOrder\obj\Debug\03.SortSequenceInIncreasingOrder.csprojResolveAssemblyReference.cache

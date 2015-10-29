@@ -1,0 +1,12 @@
+D:\TELERIK\DSA\Lections\AlgorithmsComplexity\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.exe.config
+D:\TELERIK\DSA\Lections\AlgorithmsComplexity\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.exe
+D:\TELERIK\DSA\Lections\AlgorithmsComplexity\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.pdb
+D:\TELERIK\DSA\Lections\AlgorithmsComplexity\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Lections\AlgorithmsComplexity\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.exe
+D:\TELERIK\DSA\Lections\AlgorithmsComplexity\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.pdb
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.exe.config
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.exe
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.pdb
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.exe
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.pdb
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.csprojResolveAssemblyReference.cache

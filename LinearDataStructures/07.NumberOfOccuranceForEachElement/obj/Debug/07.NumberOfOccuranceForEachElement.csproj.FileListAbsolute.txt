@@ -1,0 +1,8 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\bin\Debug\07.NumberOfOccuranceForEachElement.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\bin\Debug\07.NumberOfOccuranceForEachElement.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\bin\Debug\07.NumberOfOccuranceForEachElement.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\obj\Debug\07.NumberOfOccuranceForEachElement.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\obj\Debug\07.NumberOfOccuranceForEachElement.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\07.NumberOfOccuranceForEachElement\obj\Debug\07.NumberOfOccuranceForEachElement.csprojResolveAssemblyReference.cache

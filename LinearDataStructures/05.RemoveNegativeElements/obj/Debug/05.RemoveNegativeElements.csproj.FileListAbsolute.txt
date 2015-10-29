@@ -1,0 +1,7 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\bin\Debug\05.RemoveNegativeElements.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\bin\Debug\05.RemoveNegativeElements.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\bin\Debug\05.RemoveNegativeElements.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\obj\Debug\05.RemoveNegativeElements.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\05.RemoveNegativeElements\obj\Debug\05.RemoveNegativeElements.pdb

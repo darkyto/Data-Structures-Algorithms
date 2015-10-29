@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\09.FirstFiftyMembers\bin\Debug\09.FirstFiftyMembers.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\09.FirstFiftyMembers\bin\Debug\09.FirstFiftyMembers.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\09.FirstFiftyMembers\bin\Debug\09.FirstFiftyMembers.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\09.FirstFiftyMembers\obj\Debug\09.FirstFiftyMembers.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\09.FirstFiftyMembers\obj\Debug\09.FirstFiftyMembers.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\09.FirstFiftyMembers\obj\Debug\09.FirstFiftyMembers.pdb

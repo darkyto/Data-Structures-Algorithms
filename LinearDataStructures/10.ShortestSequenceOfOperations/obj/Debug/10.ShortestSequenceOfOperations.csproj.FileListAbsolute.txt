@@ -1,0 +1,5 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.pdb

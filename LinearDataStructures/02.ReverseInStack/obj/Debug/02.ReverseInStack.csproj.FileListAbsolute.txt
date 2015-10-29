@@ -1,0 +1,10 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\02.ReverseInStack.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\02.ReverseInStack.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\02.ReverseInStack.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\01.AverageAndSum.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\01.AverageAndSum.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\obj\Debug\02.ReverseInStack.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\obj\Debug\02.ReverseInStack.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\obj\Debug\02.ReverseInStack.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\02.ReverseInStack\bin\Debug\Commons.pdb

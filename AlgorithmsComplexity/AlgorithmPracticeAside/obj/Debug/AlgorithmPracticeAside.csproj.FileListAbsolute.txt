@@ -1,0 +1,5 @@
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmPracticeAside\bin\Debug\AlgorithmPracticeAside.exe.config
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmPracticeAside\bin\Debug\AlgorithmPracticeAside.exe
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmPracticeAside\bin\Debug\AlgorithmPracticeAside.pdb
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmPracticeAside\obj\Debug\AlgorithmPracticeAside.exe
+D:\TELERIK\DSA\Homeworks\AlgorithmsComplexity\AlgorithmPracticeAside\obj\Debug\AlgorithmPracticeAside.pdb

@@ -1,0 +1,4 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\Commons\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\Commons\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\Commons\obj\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\Commons\obj\Debug\Commons.pdb

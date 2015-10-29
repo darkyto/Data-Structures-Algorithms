@@ -1,0 +1,7 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\bin\Debug\04.SubsequenceOfEqualNumbers.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\bin\Debug\04.SubsequenceOfEqualNumbers.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\bin\Debug\04.SubsequenceOfEqualNumbers.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\obj\Debug\04.SubsequenceOfEqualNumbers.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\04.SubsequenceOfEqualNumbers\obj\Debug\04.SubsequenceOfEqualNumbers.pdb

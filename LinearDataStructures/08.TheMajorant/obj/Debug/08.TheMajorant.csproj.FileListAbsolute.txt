@@ -1,0 +1,10 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\08.TheMajorant.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\08.TheMajorant.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\08.TheMajorant.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\07.NumberOfOccuranceForEachElement.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\07.NumberOfOccuranceForEachElement.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\bin\Debug\Commons.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\obj\Debug\08.TheMajorant.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\obj\Debug\08.TheMajorant.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\08.TheMajorant\obj\Debug\08.TheMajorant.pdb

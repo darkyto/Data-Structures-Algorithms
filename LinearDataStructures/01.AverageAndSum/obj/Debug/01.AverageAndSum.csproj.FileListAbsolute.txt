@@ -1,0 +1,8 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\bin\Debug\01.AverageAndSum.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\bin\Debug\01.AverageAndSum.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\bin\Debug\01.AverageAndSum.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\obj\Debug\01.AverageAndSum.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\obj\Debug\01.AverageAndSum.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\obj\Debug\01.AverageAndSum.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\bin\Debug\Commons.dll
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\01.AverageAndSum\bin\Debug\Commons.pdb
