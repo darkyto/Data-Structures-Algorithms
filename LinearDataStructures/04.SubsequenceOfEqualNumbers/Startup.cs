@@ -9,7 +9,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("\n This homework uses C# 6 syntax and VS2015 ! \n");
+            SequenceParser.WarningMessage();
 
             Console.WriteLine("Task 4 : Enter sequence of Interegers (like: '1 2 2 2 3' or '1, 2, 2, 2, 3')");
             Console.WriteLine("To find the longest subsequence of equal digits (like: 2 2 2)");

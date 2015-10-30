@@ -9,7 +9,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("\n This homework uses C# 6 syntax and VS2015 ! \n");
+            SequenceParser.WarningMessage();
 
             Console.WriteLine("Task 6 : Enter sequence of Interegers (like: ' 4, 2, 2, 5, 2, 3, 2, 3, 1, 5, 2 ')");
             Console.WriteLine("Program that removes from given sequence all numbers that occur odd number of times.");

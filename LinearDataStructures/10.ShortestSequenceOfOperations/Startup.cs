@@ -2,15 +2,13 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+    using Commons;
 
     public class Startup
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("\n This homework uses C# 6 syntax and VS2015 ! \n");
+            SequenceParser.WarningMessage();
 
             Console.WriteLine("Task 10 : ENTER an integer to specify the START point (example: 5) \n and then ENTER ENDING POINT");
             Console.WriteLine(" .. N2 = N+1 ; N3 = N+2; N4 = N*2 .. Write a program that finds the shortest sequence of operations \nfrom the list above that starts from N and finishes in M.. ..");

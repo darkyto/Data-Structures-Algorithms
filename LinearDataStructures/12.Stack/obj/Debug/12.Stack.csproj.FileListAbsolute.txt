@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\12.Stack\bin\Debug\12.Stack.exe.config
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\12.Stack\bin\Debug\12.Stack.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\12.Stack\bin\Debug\12.Stack.pdb
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\12.Stack\obj\Debug\12.Stack.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\12.Stack\obj\Debug\12.Stack.exe
+D:\TELERIK\DSA\Homeworks\LinearDataStructures\12.Stack\obj\Debug\12.Stack.pdb

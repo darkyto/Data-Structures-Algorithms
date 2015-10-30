@@ -11,7 +11,7 @@
         // Use the Stack<int> class.
         public static void Main(string[] args)
         {
-            Console.WriteLine("This homework uses C# 6 syntax and VS2015");
+            SequenceParser.WarningMessage();
             Console.WriteLine("Task 2 : Enter Interegers (like: '1 2 3' or '1,2,3') to stack and reverse");
 
             var digits = SequenceParser.StringNumberSequenceToList(Console.ReadLine());

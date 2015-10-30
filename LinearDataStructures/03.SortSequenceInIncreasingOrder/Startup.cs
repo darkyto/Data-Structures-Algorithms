@@ -7,7 +7,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("This homework uses C# 6 syntax and VS2015");
+            SequenceParser.WarningMessage();
             Console.WriteLine("Task 3 : Enter sequence of Interegers (like: '1 -2 3' or '1,-2,3') to sort in increasing order");
 
             var digits = SequenceParser.StringNumberSequenceToList(Console.ReadLine());

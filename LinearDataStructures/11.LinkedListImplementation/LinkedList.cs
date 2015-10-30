@@ -1,36 +1,112 @@
 ﻿namespace _11.LinkedListImplementation
 {
-    public class LinkedList<T>
-    {
-        private Node head;
+    using System.Collections;
+    using System.Collections.Generic;
 
-        public void AddNode(T data)
+    public class LinkedList<T> : IEnumerable
+    {
+        public LinkedList()
         {
-            Node newNode = new Node();
-            newNode.Next = this.head;
-            newNode.Data = data;
-            this.head = newNode;
+            this.FirstElement = null;
+            this.Count = 0;
+            this.LastElement = null;
         }
 
-        public T GetFirstAdded()
-        {
-            T temp = default(T);
+        public ListItem<T> LastElement { get; set; }
 
-            Node current = this.head;
-            while (current != null)
+        public ListItem<T> FirstElement { get; set; }
+
+        public int Count { get; set; }
+
+        public void Add(T value)
+        {
+            var nodeToAdd = new ListItem<T>(value);
+
+            if (this.FirstElement == null)
             {
-                temp = current.Data;
-                current = current.Next;
+                this.FirstElement = nodeToAdd;
+                this.LastElement = this.FirstElement;
+                ++this.Count;
+                return;
             }
 
-            return temp;
+            ListItem<T> newItem = this.FirstElement;
+            while (newItem.NextItem != null)
+            {
+                newItem = newItem.NextItem;
+            }
+
+            newItem.NextItem = nodeToAdd;
+            this.LastElement = newItem.NextItem;
+            ++this.Count;
         }
 
-        private class Node
+        /// <summary>
+        /// Search for value in the Linked List and removes the first occurance
+        /// </summary>
+        /// <param name="value">value to remove</param>
+        public void Remove(T value)
         {
-            public Node Next { get; set; }
+            var tempNode = this.FirstElement;
 
-            public T Data { get; set; }
+            if (tempNode.Value.Equals(value))
+            {
+                this.FirstElement = this.FirstElement.NextItem;
+                --this.Count;
+            }    
+        }
+
+        public T GetFirst()
+        {
+            return this.FirstElement.Value;
+        }
+
+        public T GetLast()
+        {
+            return this.LastElement.Value;
+        }
+
+        public ListItem<T> GetFirstNode()
+        {
+            return this.FirstElement;
+        }
+
+        public ListItem<T> GetLastNode()
+        {
+            return this.LastElement;
+        }
+
+        public bool Contains(T value)
+        {
+            var tempNode = this.FirstElement;
+
+            while (tempNode != null)
+            {
+                if (tempNode.Value.Equals(value))
+                {
+                    return true;
+                }
+
+                tempNode = tempNode.NextItem;
+            }
+
+            return false;
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            ListItem<T> newItem = this.FirstElement;
+
+            while (newItem != null)
+            {
+                yield return newItem.Value;
+                newItem = newItem.NextItem;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return this.GetEnumerator();
         }
     }
 }

@@ -9,7 +9,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("\n This homework uses C# 6 syntax and VS2015 ! \n");
+            SequenceParser.WarningMessage();
 
             Console.WriteLine("Task 7 : Enter sequence of Interegers (example: ' 3, 4, 4, 2, 3, 3, 4, 3, 2 ')");
             Console.WriteLine(" Program that finds in given array of integers\n (all belonging to the range [0..1000]) how many times each of them occurs.");

@@ -8,7 +8,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("\n This homework uses C# 6 syntax and VS2015 ! \n");
+            SequenceParser.WarningMessage();
 
             Console.WriteLine("Task 8 : Enter sequence of Interegers (example: ' 2, 2, 3, 3, 2, 3, 4, 3, 3 ')");
             Console.WriteLine(" Write a program to find the majorant of given array (if exists).");
