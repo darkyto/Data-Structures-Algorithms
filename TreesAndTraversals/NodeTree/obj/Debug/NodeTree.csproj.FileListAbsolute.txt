@@ -1,0 +1,12 @@
+D:\TELERIK\Web-Services\Homework\ASPNet-Web-App\TreesAndTraversals\NodeTree\bin\Debug\NodeTree.exe.config
+D:\TELERIK\Web-Services\Homework\ASPNet-Web-App\TreesAndTraversals\NodeTree\bin\Debug\NodeTree.exe
+D:\TELERIK\Web-Services\Homework\ASPNet-Web-App\TreesAndTraversals\NodeTree\bin\Debug\NodeTree.pdb
+D:\TELERIK\Web-Services\Homework\ASPNet-Web-App\TreesAndTraversals\NodeTree\obj\Debug\NodeTree.csprojResolveAssemblyReference.cache
+D:\TELERIK\Web-Services\Homework\ASPNet-Web-App\TreesAndTraversals\NodeTree\obj\Debug\NodeTree.exe
+D:\TELERIK\Web-Services\Homework\ASPNet-Web-App\TreesAndTraversals\NodeTree\obj\Debug\NodeTree.pdb
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\NodeTree\bin\Debug\NodeTree.exe.config
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\NodeTree\obj\Debug\NodeTree.exe
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\NodeTree\obj\Debug\NodeTree.pdb
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\NodeTree\bin\Debug\NodeTree.exe
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\NodeTree\bin\Debug\NodeTree.pdb
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\NodeTree\obj\Debug\NodeTree.csprojResolveAssemblyReference.cache

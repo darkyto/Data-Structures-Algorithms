@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeTree", "NodeTree\NodeTree.csproj", "{EC55688C-21F2-4399-828C-936DD82A67B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeFileTraversal", "ExeFileTraversal\ExeFileTraversal.csproj", "{D3B74803-7B80-412D-9687-CA34854AEF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesFoldersDfs", "FilesFoldersDfs\FilesFoldersDfs.csproj", "{9F0B8C69-6D47-4E4B-A9EF-038F1E9783EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC55688C-21F2-4399-828C-936DD82A67B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC55688C-21F2-4399-828C-936DD82A67B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC55688C-21F2-4399-828C-936DD82A67B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC55688C-21F2-4399-828C-936DD82A67B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B74803-7B80-412D-9687-CA34854AEF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B74803-7B80-412D-9687-CA34854AEF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B74803-7B80-412D-9687-CA34854AEF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B74803-7B80-412D-9687-CA34854AEF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0B8C69-6D47-4E4B-A9EF-038F1E9783EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0B8C69-6D47-4E4B-A9EF-038F1E9783EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0B8C69-6D47-4E4B-A9EF-038F1E9783EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0B8C69-6D47-4E4B-A9EF-038F1E9783EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

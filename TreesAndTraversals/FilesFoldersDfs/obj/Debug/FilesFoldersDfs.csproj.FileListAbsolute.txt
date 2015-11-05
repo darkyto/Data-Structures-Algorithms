@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\FilesFoldersDfs\bin\Debug\FilesFoldersDfs.exe.config
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\FilesFoldersDfs\bin\Debug\FilesFoldersDfs.exe
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\FilesFoldersDfs\bin\Debug\FilesFoldersDfs.pdb
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\FilesFoldersDfs\obj\Debug\FilesFoldersDfs.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\FilesFoldersDfs\obj\Debug\FilesFoldersDfs.exe
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\FilesFoldersDfs\obj\Debug\FilesFoldersDfs.pdb

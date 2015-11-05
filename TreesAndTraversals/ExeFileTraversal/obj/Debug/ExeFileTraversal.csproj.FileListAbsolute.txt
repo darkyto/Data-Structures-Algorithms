@@ -1,0 +1,5 @@
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\ExeFileTraversal\bin\Debug\ExeFileTraversal.exe.config
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\ExeFileTraversal\bin\Debug\ExeFileTraversal.exe
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\ExeFileTraversal\bin\Debug\ExeFileTraversal.pdb
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\ExeFileTraversal\obj\Debug\ExeFileTraversal.exe
+D:\TELERIK\DSA\Homeworks\TreesAndTraversals\ExeFileTraversal\obj\Debug\ExeFileTraversal.pdb
