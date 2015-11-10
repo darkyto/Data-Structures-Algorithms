@@ -1,0 +1,5 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationNonDuplicates\bin\Debug\GenerateCombinationNonDuplicates.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationNonDuplicates\bin\Debug\GenerateCombinationNonDuplicates.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationNonDuplicates\bin\Debug\GenerateCombinationNonDuplicates.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationNonDuplicates\obj\Debug\GenerateCombinationNonDuplicates.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationNonDuplicates\obj\Debug\GenerateCombinationNonDuplicates.pdb

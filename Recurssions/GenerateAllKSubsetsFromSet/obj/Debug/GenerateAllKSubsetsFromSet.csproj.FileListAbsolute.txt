@@ -1,0 +1,5 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateAllKSubsetsFromSet\bin\Debug\GenerateAllKSubsetsFromSet.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateAllKSubsetsFromSet\bin\Debug\GenerateAllKSubsetsFromSet.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateAllKSubsetsFromSet\bin\Debug\GenerateAllKSubsetsFromSet.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateAllKSubsetsFromSet\obj\Debug\GenerateAllKSubsetsFromSet.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateAllKSubsetsFromSet\obj\Debug\GenerateAllKSubsetsFromSet.pdb

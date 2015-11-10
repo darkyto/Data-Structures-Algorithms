@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\PermutationsRecursive\bin\Debug\PermutationsRecursive.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\PermutationsRecursive\bin\Debug\PermutationsRecursive.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\PermutationsRecursive\bin\Debug\PermutationsRecursive.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\PermutationsRecursive\obj\Debug\PermutationsRecursive.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\Recurssions\PermutationsRecursive\obj\Debug\PermutationsRecursive.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\PermutationsRecursive\obj\Debug\PermutationsRecursive.pdb

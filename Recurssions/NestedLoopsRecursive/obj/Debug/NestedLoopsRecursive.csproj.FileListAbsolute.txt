@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\NestedLoopsRecursive\bin\Debug\NestedLoopsRecursive.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\NestedLoopsRecursive\bin\Debug\NestedLoopsRecursive.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\NestedLoopsRecursive\bin\Debug\NestedLoopsRecursive.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\NestedLoopsRecursive\obj\Debug\NestedLoopsRecursive.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\Recurssions\NestedLoopsRecursive\obj\Debug\NestedLoopsRecursive.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\NestedLoopsRecursive\obj\Debug\NestedLoopsRecursive.pdb

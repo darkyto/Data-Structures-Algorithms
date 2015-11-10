@@ -1,0 +1,5 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\PassableMatrixPaths\bin\Debug\PassableMatrixPaths.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\PassableMatrixPaths\bin\Debug\PassableMatrixPaths.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\PassableMatrixPaths\bin\Debug\PassableMatrixPaths.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\PassableMatrixPaths\obj\Debug\PassableMatrixPaths.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\PassableMatrixPaths\obj\Debug\PassableMatrixPaths.pdb

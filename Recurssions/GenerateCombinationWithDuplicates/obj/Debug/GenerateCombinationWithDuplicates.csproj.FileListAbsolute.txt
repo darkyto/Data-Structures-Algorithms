@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationWithDuplicates\obj\Debug\GenerateCombinationWithDuplicates.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationWithDuplicates\bin\Debug\GenerateCombinationWithDuplicates.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationWithDuplicates\bin\Debug\GenerateCombinationWithDuplicates.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationWithDuplicates\bin\Debug\GenerateCombinationWithDuplicates.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationWithDuplicates\obj\Debug\GenerateCombinationWithDuplicates.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\GenerateCombinationWithDuplicates\obj\Debug\GenerateCombinationWithDuplicates.pdb

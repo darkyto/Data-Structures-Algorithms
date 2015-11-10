@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Homeworks\Recurssions\VariationsKinNsubset\bin\Debug\VariationsKinNsubset.exe.config
+D:\TELERIK\DSA\Homeworks\Recurssions\VariationsKinNsubset\bin\Debug\VariationsKinNsubset.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\VariationsKinNsubset\bin\Debug\VariationsKinNsubset.pdb
+D:\TELERIK\DSA\Homeworks\Recurssions\VariationsKinNsubset\obj\Debug\VariationsKinNsubset.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\Recurssions\VariationsKinNsubset\obj\Debug\VariationsKinNsubset.exe
+D:\TELERIK\DSA\Homeworks\Recurssions\VariationsKinNsubset\obj\Debug\VariationsKinNsubset.pdb
