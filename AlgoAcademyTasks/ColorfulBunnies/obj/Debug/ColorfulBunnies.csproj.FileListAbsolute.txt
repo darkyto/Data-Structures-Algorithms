@@ -1,0 +1,6 @@
+c:\users\divided.zero\documents\visual studio 2015\Projects\AlgoAcademyTasks\ColorfulBunnies\bin\Debug\ColorfulBunnies.exe.config
+c:\users\divided.zero\documents\visual studio 2015\Projects\AlgoAcademyTasks\ColorfulBunnies\bin\Debug\ColorfulBunnies.exe
+c:\users\divided.zero\documents\visual studio 2015\Projects\AlgoAcademyTasks\ColorfulBunnies\bin\Debug\ColorfulBunnies.pdb
+c:\users\divided.zero\documents\visual studio 2015\Projects\AlgoAcademyTasks\ColorfulBunnies\obj\Debug\ColorfulBunnies.csprojResolveAssemblyReference.cache
+c:\users\divided.zero\documents\visual studio 2015\Projects\AlgoAcademyTasks\ColorfulBunnies\obj\Debug\ColorfulBunnies.exe
+c:\users\divided.zero\documents\visual studio 2015\Projects\AlgoAcademyTasks\ColorfulBunnies\obj\Debug\ColorfulBunnies.pdb

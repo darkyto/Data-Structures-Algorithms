@@ -1,0 +1,10 @@
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\TradeCompany.exe.config
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\TradeCompany.exe
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\TradeCompany.pdb
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\RandomGenerator.dll
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\RandomGenerator.pdb
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\obj\Debug\TradeCompany.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\obj\Debug\TradeCompany.exe
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\TradeCompany\obj\Debug\TradeCompany.pdb

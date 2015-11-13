@@ -1,0 +1,8 @@
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\bin\Debug\BiDictionary.exe.config
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\bin\Debug\BiDictionary.exe
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\bin\Debug\BiDictionary.pdb
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\bin\Debug\PowerCollections.dll
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\bin\Debug\PowerCollections.xml
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\obj\Debug\BiDictionary.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\obj\Debug\BiDictionary.exe
+D:\TELERIK\DSA\Homeworks\DataStructuresEfficiency\BiDictionary\obj\Debug\BiDictionary.pdb

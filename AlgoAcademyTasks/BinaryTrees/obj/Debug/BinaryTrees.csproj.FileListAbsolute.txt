@@ -1,0 +1,6 @@
+C:\Users\divided.zero\Documents\Visual Studio 2015\Projects\AlgoAcademyTasks\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+C:\Users\divided.zero\Documents\Visual Studio 2015\Projects\AlgoAcademyTasks\BinaryTrees\obj\Debug\BinaryTrees.csprojResolveAssemblyReference.cache
+C:\Users\divided.zero\Documents\Visual Studio 2015\Projects\AlgoAcademyTasks\BinaryTrees\bin\Debug\BinaryTrees.exe
+C:\Users\divided.zero\Documents\Visual Studio 2015\Projects\AlgoAcademyTasks\BinaryTrees\bin\Debug\BinaryTrees.pdb
+C:\Users\divided.zero\Documents\Visual Studio 2015\Projects\AlgoAcademyTasks\BinaryTrees\obj\Debug\BinaryTrees.exe
+C:\Users\divided.zero\Documents\Visual Studio 2015\Projects\AlgoAcademyTasks\BinaryTrees\obj\Debug\BinaryTrees.pdb
