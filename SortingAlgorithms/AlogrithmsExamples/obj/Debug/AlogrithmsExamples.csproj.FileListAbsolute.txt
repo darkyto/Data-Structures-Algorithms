@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Lections\SortingAlgorithms\AlogrithmsExamples\bin\Debug\AlogrithmsExamples.exe.config
+D:\TELERIK\DSA\Lections\SortingAlgorithms\AlogrithmsExamples\bin\Debug\AlogrithmsExamples.exe
+D:\TELERIK\DSA\Lections\SortingAlgorithms\AlogrithmsExamples\bin\Debug\AlogrithmsExamples.pdb
+D:\TELERIK\DSA\Lections\SortingAlgorithms\AlogrithmsExamples\obj\Debug\AlogrithmsExamples.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Lections\SortingAlgorithms\AlogrithmsExamples\obj\Debug\AlogrithmsExamples.exe
+D:\TELERIK\DSA\Lections\SortingAlgorithms\AlogrithmsExamples\obj\Debug\AlogrithmsExamples.pdb

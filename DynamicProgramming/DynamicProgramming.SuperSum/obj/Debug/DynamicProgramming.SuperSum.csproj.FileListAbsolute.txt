@@ -1,0 +1,5 @@
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.SuperSum\bin\Debug\DynamicProgramming.SuperSum.exe.config
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.SuperSum\bin\Debug\DynamicProgramming.SuperSum.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.SuperSum\bin\Debug\DynamicProgramming.SuperSum.pdb
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.SuperSum\obj\Debug\DynamicProgramming.SuperSum.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.SuperSum\obj\Debug\DynamicProgramming.SuperSum.pdb

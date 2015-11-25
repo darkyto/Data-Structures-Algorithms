@@ -1,0 +1,8 @@
+D:\TELERIK\DSA\Lections\SortingAlgorithms\Heap\bin\Debug\Heap.exe.config
+D:\TELERIK\DSA\Lections\SortingAlgorithms\Heap\bin\Debug\Heap.exe
+D:\TELERIK\DSA\Lections\SortingAlgorithms\Heap\bin\Debug\Heap.pdb
+D:\TELERIK\DSA\Lections\SortingAlgorithms\Heap\obj\Debug\Heap.exe
+D:\TELERIK\DSA\Lections\SortingAlgorithms\Heap\obj\Debug\Heap.pdb
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\Heap\bin\Debug\Heap.exe.config
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\Heap\obj\Debug\Heap.exe
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\Heap\obj\Debug\Heap.pdb

@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.Tribonacci\bin\Debug\DynamicProgramming.Tribonacci.exe.config
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.Tribonacci\bin\Debug\DynamicProgramming.Tribonacci.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.Tribonacci\bin\Debug\DynamicProgramming.Tribonacci.pdb
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.Tribonacci\obj\Debug\DynamicProgramming.Tribonacci.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.Tribonacci\obj\Debug\DynamicProgramming.Tribonacci.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.Tribonacci\obj\Debug\DynamicProgramming.Tribonacci.pdb

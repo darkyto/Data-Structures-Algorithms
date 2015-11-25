@@ -1,0 +1,5 @@
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.MinimumEditDistance\bin\Debug\DynamicProgramming.MinimumEditDistance.exe.config
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.MinimumEditDistance\bin\Debug\DynamicProgramming.MinimumEditDistance.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.MinimumEditDistance\bin\Debug\DynamicProgramming.MinimumEditDistance.pdb
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.MinimumEditDistance\obj\Debug\DynamicProgramming.MinimumEditDistance.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.MinimumEditDistance\obj\Debug\DynamicProgramming.MinimumEditDistance.pdb

@@ -1,0 +1,12 @@
+D:\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe.config
+D:\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe
+D:\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.pdb
+D:\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.exe
+D:\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.pdb
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe.config
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.exe
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.pdb
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.pdb
+D:\Personal\TELERIK\DSA\Lections\SortingAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.KnapsackProblem\bin\Debug\DynamicProgramming.KnapsackProblem.exe.config
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.KnapsackProblem\bin\Debug\DynamicProgramming.KnapsackProblem.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.KnapsackProblem\bin\Debug\DynamicProgramming.KnapsackProblem.pdb
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.KnapsackProblem\obj\Debug\DynamicProgramming.KnapsackProblem.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.KnapsackProblem\obj\Debug\DynamicProgramming.KnapsackProblem.exe
+D:\Personal\TELERIK\DSA\Homeworks\DynamicProgramming\DynamicProgramming.KnapsackProblem\obj\Debug\DynamicProgramming.KnapsackProblem.pdb
